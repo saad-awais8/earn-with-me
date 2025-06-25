@@ -1,0 +1,3 @@
+# Authorized digital sellers
+example.com, 1234567890123456, DIRECT, abcdef1234567890
+google.com, pub-4663240498837410, DIRECT, f08c47fec0942fa0
